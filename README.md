@@ -20,9 +20,9 @@ Kurikulum ini dibagi menjadi dua fase proyek untuk memastikan transisi _mental m
 
 _Target: Menyiapkan alat kerja, memahami DOM Web, dan transisi ke TypeScript._
 
-- [ ] **Hari 1: Environment & Scaffolding**
-  - [ ] Instalasi NVM & Node.js.
-  - [ ] Init project baru: `npm create vite@latest fintrack-pro -- --template react-ts`.
+- [x] **Hari 1: Environment & Scaffolding**
+  - [x] Instalasi NVM & Node.js.
+  - [x] Init project baru: `npm create vite@latest fintrack-pro -- --template react-ts`.
 - [ ] **Hari 2: HTML Semantic & CSS Modern**
   - [ ] Mempelajari tag HTML5 (`<main>`, `<section>`, dll).
   - [ ] Menguasai **CSS Flexbox** dan **CSS Grid** (padanan Compose Layout).
