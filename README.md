@@ -26,8 +26,8 @@ _Target: Menyiapkan alat kerja, memahami DOM Web, dan transisi ke TypeScript._
 - [x] **Hari 2: HTML Semantic & CSS Modern**
   - [x] Mempelajari tag HTML5 (`<main>`, `<section>`, dll).
   - [x] Menguasai **CSS Flexbox** dan **CSS Grid** (padanan Compose Layout).
-- [ ] **Hari 3: TypeScript Dasar**
-  - [ ] Deklarasi tipe data dan pembuatan `interface` / `type`.
+- [x] **Hari 3: TypeScript Dasar**
+  - [x] Deklarasi tipe data dan pembuatan `interface` / `type`.
 - [ ] **Hari 4: TypeScript Lanjutan**
   - [ ] Penggunaan _Generics_ dan _Utility Types_ (`Omit`, `Pick`).
 - [ ] **Hari 5: Anatomi Komponen & TSX**
